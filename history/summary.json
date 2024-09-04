@@ -4,18 +4,20 @@
     "url": "https://www.geckotv.me",
     "icon": "https://icons.duckduckgo.com/ip3/www.geckotv.me.ico",
     "slug": "gecko-tv-web",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1053,
-    "timeDay": 1053,
-    "timeWeek": 1053,
-    "timeMonth": 1053,
-    "timeYear": 1053,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.77%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 897,
+    "timeDay": 897,
+    "timeWeek": 897,
+    "timeMonth": 897,
+    "timeYear": 897,
+    "dailyMinutesDown": {
+      "2024-09-04": 0
+    }
   },
   {
     "name": "Tibue99-Fanpage",
