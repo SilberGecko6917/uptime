@@ -1,6 +1,7 @@
 # Change these first
 owner: SilberGecko6917 # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
+skipDeleteIssues: true
 
 sites:
   - name: GeckoTV-Web
