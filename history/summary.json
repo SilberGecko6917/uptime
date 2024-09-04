@@ -1,25 +1,5 @@
 [
   {
-    "name": "GeckoTV-Web",
-    "url": "https://www.geckotv.me",
-    "icon": "https://icons.duckduckgo.com/ip3/www.geckotv.me.ico",
-    "slug": "gecko-tv-web",
-    "status": "down",
-    "uptime": "32.83%",
-    "uptimeDay": "32.83%",
-    "uptimeWeek": "32.83%",
-    "uptimeMonth": "32.83%",
-    "uptimeYear": "32.83%",
-    "time": 491,
-    "timeDay": 491,
-    "timeWeek": 491,
-    "timeMonth": 491,
-    "timeYear": 491,
-    "dailyMinutesDown": {
-      "2024-09-04": 45
-    }
-  },
-  {
     "name": "Tibue99-Fanpage",
     "url": "https://www.tibue99.tech",
     "icon": "https://icons.duckduckgo.com/ip3/www.tibue99.tech.ico",
@@ -30,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 359,
-    "timeDay": 359,
-    "timeWeek": 359,
-    "timeMonth": 359,
-    "timeYear": 359,
+    "time": 352,
+    "timeDay": 352,
+    "timeWeek": 352,
+    "timeMonth": 352,
+    "timeYear": 352,
     "dailyMinutesDown": {}
   }
 ]
