@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.geckotv.me.ico",
     "slug": "gecko-tv-web",
     "status": "down",
-    "uptime": "61.90%",
-    "uptimeDay": "61.90%",
-    "uptimeWeek": "61.90%",
-    "uptimeMonth": "61.90%",
-    "uptimeYear": "61.90%",
-    "time": 666,
-    "timeDay": 666,
-    "timeWeek": 666,
-    "timeMonth": 666,
-    "timeYear": 666,
+    "uptime": "60.85%",
+    "uptimeDay": "60.85%",
+    "uptimeWeek": "60.85%",
+    "uptimeMonth": "60.85%",
+    "uptimeYear": "60.85%",
+    "time": 592,
+    "timeDay": 592,
+    "timeWeek": 592,
+    "timeMonth": 592,
+    "timeYear": 592,
     "dailyMinutesDown": {
       "2024-09-04": 14
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 356,
-    "timeDay": 356,
-    "timeWeek": 356,
-    "timeMonth": 356,
-    "timeYear": 356,
+    "time": 379,
+    "timeDay": 379,
+    "timeWeek": 379,
+    "timeMonth": 379,
+    "timeYear": 379,
     "dailyMinutesDown": {}
   }
 ]
