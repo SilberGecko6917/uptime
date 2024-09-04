@@ -4,8 +4,8 @@ repo: uptime # The name of this repository
 skipDeleteIssues: true
 
 sites:
-  - name: GeckoTV-Web
-    url: https://www.geckotv.me
+  # - name: GeckoTV-Web
+  #   url: https://www.geckotv.me
   - name: Tibue99-Fanpage
     url: https://www.tibue99.tech
   # - name: Google
