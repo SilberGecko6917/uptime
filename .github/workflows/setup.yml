@@ -16,8 +16,6 @@
 
 name: Setup CI
 on:
-  schedule:
-      - cron: "0 3 * * *"
   push:
     paths:
       - ".upptimerc.yml"
