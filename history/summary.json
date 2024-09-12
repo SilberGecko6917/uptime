@@ -4,17 +4,19 @@
     "url": "https://www.tibue99.tech",
     "icon": "https://icons.duckduckgo.com/ip3/www.tibue99.tech.ico",
     "slug": "tibue99-fanpage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 317,
-    "timeDay": 175,
-    "timeWeek": 289,
-    "timeMonth": 317,
-    "timeYear": 317,
-    "dailyMinutesDown": {}
+    "time": 445,
+    "timeDay": 1718,
+    "timeWeek": 586,
+    "timeMonth": 445,
+    "timeYear": 445,
+    "dailyMinutesDown": {
+      "2024-09-12": 0
+    }
   }
 ]
